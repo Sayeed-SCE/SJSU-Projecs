@@ -1,0 +1,21 @@
+body { 
+	background-color: lightblue;
+}
+
+#mainheader {
+	text-align: center;
+}
+
+ h1 {
+ 	color: rgb(0,0,200);
+ }
+
+ a.google:hover {
+ 	background-color: black;
+ }
+
+ ul>h4 {
+
+ 	border: solid;
+ 	color: black;
+ }
